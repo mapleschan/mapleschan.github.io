@@ -15,7 +15,12 @@
 <script>
 function bottomText()
 	{
-		document.getElementById("bottomTextImage").src="https://media.makeameme.org/created/my-dads-in-5ba706.jpg";
+		if(document.getElementById("bottomTextImage").src == "")
+		{
+			document.getElementById("bottomTextImage").src="https://media.makeameme.org/created/my-dads-in-5ba706.jpg";
+		} else {
+			document.getElementById("bottomTextImage").src="";
+		}
 	}
 </script>
 </html>
