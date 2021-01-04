@@ -43,6 +43,7 @@ button {
   border-width: 2px;
   border-style: solid;
   text-decoration: none;
+  padding: 5px;
 }
 
 /* Index Page */
