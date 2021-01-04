@@ -130,7 +130,7 @@
             "name": "Thumper",
             "format": "digital",
             "platform": "Steam",
-            "status": "Plan to Play",
+            "status": "Currently Playing",
             "rating": "",
             "thoughts": "",
             "trueIfHasChild": 0
