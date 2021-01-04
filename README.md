@@ -1,2 +1,1 @@
-# maplesyrupquack.github.io
-The playground.
+Personal site
