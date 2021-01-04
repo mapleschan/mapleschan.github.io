@@ -116,6 +116,51 @@
             "rating": "",
             "thoughts": "",
             "trueIfHasChild": 0
+        },
+        {
+            "name": "Celeste",
+            "format": "digital",
+            "platform": "Steam",
+            "status": "On Hold",
+            "rating": "",
+            "thoughts": "",
+            "trueIfHasChild": 0
+        },
+        {
+            "name": "Thumper",
+            "format": "digital",
+            "platform": "Steam",
+            "status": "Plan to Play",
+            "rating": "",
+            "thoughts": "",
+            "trueIfHasChild": 0
+        },
+        {
+            "name": "Senran Kagura Burst Re:Newal",
+            "format": "digital",
+            "platform": "Steam",
+            "status": "Plan to Play",
+            "rating": "",
+            "thoughts": "",
+            "trueIfHasChild": 0
+        },
+        {
+            "name": "The Legend of Heroes: Trials in the Sky",
+            "format": "digital",
+            "platform": "Steam",
+            "status": "Plan to Play",
+            "rating": "",
+            "thoughts": "",
+            "trueIfHasChild": 0
+        },
+        {
+            "name": "Mysteria ~Occult Shadows~",
+            "format": "digital",
+            "platform": "Steam",
+            "status": "Plan to Play",
+            "rating": "",
+            "thoughts": "",
+            "trueIfHasChild": 0
         }
     ]
 }
